@@ -1,1 +1,1 @@
-![Contribution Stats](https://github-readme-stats.vercel.app/api?username=kvaps&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats) ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@kvaps&layout=compact)
+![Contribution Stats](https://github-readme-stats.vercel.app/api?username=kvaps&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats) ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@kvaps)
