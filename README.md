@@ -1,6 +1,3 @@
-Open Source fanboy and active member of the community. Speaker of various IT conferences.  
-Developer advocate who loves Kubernetes and all related technologies.
-
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://kvaps.github.io)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://kvaps.medium.com/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=kMU3JAsFXQk&list=PLigW96d6EqkhiQ8a8R0q29NoPfn3jSw__)
