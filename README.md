@@ -4,7 +4,7 @@
 <tr>
 <td rowspan="2">
 
-![stats](https://cdn-icons-png.flaticon.com/512/432/432764.png)
+![](img/spacer.png)
   
 </td>
 <td>
