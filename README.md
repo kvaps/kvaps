@@ -1,4 +1,4 @@
-Open Source fanboy and active member of the community. Speaker of various IT conferences.
+Open Source fanboy and active member of the community. Speaker of various IT conferences.  
 Developer advocate who loves Kubernetes and all related technologies.
 
 <table>
